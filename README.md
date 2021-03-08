@@ -16,7 +16,7 @@ I would like to introduce you to GUI based tool I made, which makes updating you
 - Click on the [Create Cover Letter] button and you can that your Cover letter is created in the right text box, you can copy that and use it.
 
 
-## What is [Save Basic info] & [Load basic info from C:\Basic.txt>\]?
+## What is [Save Basic info] & [Load basic info from C:\Basic.txt]?
 
 ### [Save Basic info] button saves Your Name, Current Role, Email, and Contact number fields to a test file created on C drive with name=Basic.txt
 Looks like 
