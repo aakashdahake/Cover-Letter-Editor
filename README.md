@@ -6,7 +6,7 @@ In the effortful journey of job-seeking, I found myself modifying my cover lette
 
 I would like to introduce to GUI based tool I made, which makes updating your cover content easy -
 
-How to use it?
+## How to use it?
 - Create a cover letter of your choice in text file.
 - Now place #COMPANY#, #PLACE#, #DATE#, #RECRUITER#, #DESIGNATION#, #CURRENT_ROLE#, #YOUR_NAME#, #EMAIL#, #CELL# terms in your CL file, where you want your enetered data will appear
 - You can use #CUSTOMFIELD1# to #CUSTOMFIELD7# to use these fields in your cover letter content file if required
@@ -16,9 +16,9 @@ How to use it?
 - Click on <Create Cover Letter> button and you can that your COver letter is created in right text box, you can copy that and use.
 
 
-# What is  <Save Basic info> & <Load basic info from C:\Basic.txt>?
+## What is [Save Basic info] & [Load basic info from C:\Basic.txt>\]?
 
-<Save Basic info> button saves Your Name,Current Role,Email, and Contact number fields to a test file created on C drive with name=Basic.txt
+### <Save Basic info> button saves Your Name,Current Role,Email, and Contact number fields to a test file created on C drive with name=Basic.txt
 Looks like 
  {
 	"Name": "Alex Murray",
@@ -27,9 +27,9 @@ Looks like
 	"Cell": "+123456789"	
 }
 
-<Load basic info from C:\Basic.txt>
+### <Load basic info from C:\Basic.txt>
 Load above information for you from C:\Basic.txt so that you don't need to enter same details again and again you use this tool.
 
 
-Screenshot
-
+# Screenshot
+![UI](CLE.PNG)
