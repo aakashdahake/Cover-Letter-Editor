@@ -18,7 +18,7 @@ I would like to introduce to GUI based tool I made, which makes updating your co
 
 ## What is [Save Basic info] & [Load basic info from C:\Basic.txt>\]?
 
-### <Save Basic info> button saves Your Name,Current Role,Email, and Contact number fields to a test file created on C drive with name=Basic.txt
+### [Save Basic info] button saves Your Name,Current Role,Email, and Contact number fields to a test file created on C drive with name=Basic.txt
 Looks like 
  {
 	"Name": "Alex Murray",
@@ -27,7 +27,7 @@ Looks like
 	"Cell": "+123456789"	
 }
 
-### <Load basic info from C:\Basic.txt>
+### [Load basic info from C:\Basic.txt]
 Load above information for you from C:\Basic.txt so that you don't need to enter same details again and again you use this tool.
 
 
