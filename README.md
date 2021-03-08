@@ -18,8 +18,8 @@ I would like to introduce you to GUI based tool I made, which makes updating you
 
 ## What is [Save Basic info] & [Load basic info from C:\Basic.txt]?
 
-### [Save Basic info] button saves Your Name, Current Role, Email, and Contact number fields to a test file created on C drive with name=Basic.txt
-Looks like 
+### [Save Basic info] button saves Your Name, Current Role, Email, and Contact number fields to a text file created on C drive with name=Basic.txt
+It Looks like 
  {
 	"Name": "Alex Murray",
 	"CurrentRole": "Lead SDET",
