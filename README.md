@@ -10,10 +10,10 @@ I would like to introduce you to GUI based tool I made, which makes updating you
 - Create a cover letter of your choice in a text file.
 - Now place #COMPANY#, #PLACE#, #DATE#, #RECRUITER#, #DESIGNATION#, #CURRENT_ROLE#, #YOUR_NAME#, #EMAIL#, #CELL# terms in your CL file, where you want your entered data will appear
 - You can use #CUSTOMFIELD1# to #CUSTOMFIELD7# to use these fields in your cover letter content file if required
-- Open the Cover Letter Editor tool and click on the <Open You CV Text File> button and select the template file you created in the above steps
+- Open the Cover Letter Editor tool and click on the [Open You CV Text File] button and select the template file you created in the above steps
 - Select Date (it takes current date when opened)
 - Fill out necessary data like Company Name, Address, Recruiter Name, Designation, Current Role, Your name, email, and contact. (Custom fields if you have used in your cover letter file)
-- Click on the <Create Cover Letter> button and you can that your COver letter is created in the right text box, you can copy that and use it.
+- Click on the [Create Cover Letter] button and you can that your Cover letter is created in the right text box, you can copy that and use it.
 
 
 ## What is [Save Basic info] & [Load basic info from C:\Basic.txt>\]?
