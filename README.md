@@ -28,7 +28,7 @@ It Looks like
 }
 
 ### [Load basic info from C:\Basic.txt]
-Load above information for you from C:\Basic.txt so that you don't need to enter the same details, again and again, you use this tool.
+Loads above information for you from C:\Basic.txt so that you don't need to enter the same details, again and again, when you use this tool.
 
 
 
